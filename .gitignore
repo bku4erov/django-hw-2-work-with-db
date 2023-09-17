@@ -2,4 +2,5 @@ main/__pycache__
 phones/__pycache__
 phones/migrations
 phones/management/__pycache__
+phones/management/commands/__pycache__
 phones/config.py
